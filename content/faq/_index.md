@@ -7,4 +7,4 @@ title: FAQ
 
 ### Frequently Asked Questions
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to demo@email.com
+Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to info@ih2o.nl
