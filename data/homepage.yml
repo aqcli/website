@@ -2,8 +2,7 @@
 banner:
   enable : true
   title : "An integrated waterquality, airquality and climate change sensor"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  content : "ffdsdfdsff"
   image : "images/banner.png"
   # button
   button:
@@ -18,18 +17,17 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "About Our integrated sensor"
+  content : "really cool sensor
+              ,"
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Support us"
+  content : "Scan the QR code"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
@@ -39,8 +37,8 @@ cta:
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+  title : "Sensors"
+  subtitle : "These sensors can be added depending on placement and monitoring specifics
           dol."
   materialItem:
     # material item loop
